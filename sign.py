@@ -22,7 +22,7 @@ def makePlainText(requestMethod, requestHost, requestPath, params):
 #     params = {
 #         'Action': 'CreateSecurityGroupPolicies',
 #         'Version': '2017-03-12',
-#         'SecurityGroupId': 'sg-19cf54rb',
+#         'SecurityGroupId': 'sg-19djf7dsfd65',
 #         'SecurityGroupPolicySet.Ingress.0.PolicyIndex': '0',
 #         'SecurityGroupPolicySet.Ingress.0.Action': 'DROP',
 #         'SecurityGroupPolicySet.Ingress.0.Protocol': 'ALL',
